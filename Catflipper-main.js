@@ -4,6 +4,7 @@ include binmaster from binmaster
 include NEC from notenoughcoins
 include skyhelper from API
 include סטיגמה from סטיגמותבעם
+include fornite from diablo
 
 while CATFLIPPER {
   if (flip == binmaster) || [flip == cofl] || [flip == NEC] {
