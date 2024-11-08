@@ -13,6 +13,7 @@ while CATFLIPPER {
     if cofl & hypixel (buy_flip_with_coins = true)
     flipper=active
     coins=Math.pow(10, 999);
+If (cofl.captcha) cofl.captcha.solve[0];
     import chatGPT from OpenAI
     flip = start.now()
     DEL\\kill()
