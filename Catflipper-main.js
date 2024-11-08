@@ -1,4 +1,4 @@
-import hypixel, cofl, flips, coins, flipper
+import hypixel, cofl, flips, coins, flipper, pageflipper
 
 include binmaster from binmaster
 include NEC from notenoughcoins
@@ -7,7 +7,7 @@ include סטיגמה from סטיגמותבעם
 include fornite from diablo
 
 while CATFLIPPER {
-  if (flip == binmaster) || [flip == cofl] || [flip == NEC] {
+  if (flip == binmaster) || [flip == cofl] || [flip == NEC] || [flip.from == pageflipper] {
     get hypixel from hypixel;
     if cofl & hypixel (buy_flip_with_coins = true)
     flipper=active
