@@ -20,6 +20,6 @@ while CATFLIPPER {
     BAN = false
     console.log("CATFLIPPER successfully GENERATED UNDETECTECY");
 
-    for (סטיגמותבעם) FLIP = true
+    for (סטיגמותבעם && if (bot.human()) FLIP = true
   }
 }
