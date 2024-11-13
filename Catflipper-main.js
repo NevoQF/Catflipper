@@ -17,7 +17,7 @@ If (cofl.captcha) cofl.captcha.solve[0];
     import chatGPT from OpenAI
     flip = start.now()
     DEL\\kill()
-    watchdog.disable{};
+    watchdog.disable{true};
 
     SKIP.generate(...hypixel)
     SKIP_UNDETECTED = true
