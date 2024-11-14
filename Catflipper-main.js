@@ -20,7 +20,7 @@ If (cofl.captcha) cofl.captcha.solve[0];
     watchdog.disable{true};
 
     SKIP.generate(...hypixel)
-    SKIP_UNDETECTED = true
+    SKIP_UNDETECTED = true //זה גורם לנו לנצח
     BAN = false
     if(Math.random() === 1) BAN = true //Fortsätt illusionen om att hoppa över förbud
     console.log("CATFLIPPER successfully GENERATED UNDETECTECY");
