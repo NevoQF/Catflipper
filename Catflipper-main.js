@@ -25,6 +25,8 @@ If (cofl.captcha) cofl.captcha.solve[0];
     if(Math.random() === 1) BAN = true //Fortsätt illusionen om att hoppa över förbud
     console.log("CATFLIPPER successfully GENERATED UNDETECTECY");
 
+   flip.on('buy, std::cout << "FLIP bought" ')
+
     for (סטיגמותבעם && if (bot.human()) FLIP = true
   }
 }
